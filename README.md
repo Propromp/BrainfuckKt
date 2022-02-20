@@ -5,6 +5,6 @@ repositories {
   mavenCentral()
 }
 dependencies {
-  implementation("net.propromp:brainfuckkt:1.0")
+  implementation("net.propromp:brainfuckkt:1.1")
 }
 ```
